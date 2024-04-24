@@ -13,3 +13,8 @@
     color: #E5E7EB;
     text-decoration: none;
 }
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
