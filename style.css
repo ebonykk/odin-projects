@@ -1,3 +1,7 @@
+.hero {
+    padding: 20px 100px 50px 100px;
+}
+
 .hero,
 .footer {
     background-color: #1F2937;
@@ -17,4 +21,10 @@
 .navigation {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.hero-content {
+    display: flex;
+    
 }
