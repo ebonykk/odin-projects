@@ -1,3 +1,7 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
 .hero {
     padding: 20px 100px 50px 100px;
 }
@@ -36,7 +40,7 @@
 
 .content {
     width: 50%;
-
+    height: auto;
 }
 
 .hero-image {
@@ -45,6 +49,4 @@
     align-items: center;
     width: 50%;
     background-color: grey;
-    height: 100px;
-    
 }
