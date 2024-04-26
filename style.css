@@ -4,6 +4,7 @@ body {
 
 .hero {
     padding: 20px 100px 50px 100px;
+    height: auto;
 }
 
 .hero,
@@ -32,15 +33,15 @@ body {
 
 .hero-content {
     display: flex;
-    gap: 20px;
     align-items: center;
     color: #E5E7EB;
     font-size: 18px;
+    gap: 40px;
 }
 
 .content {
     width: 50%;
-    height: auto;
+   
 }
 
 .hero-image {
@@ -49,4 +50,4 @@ body {
     align-items: center;
     width: 50%;
     background-color: grey;
-}
+} 
