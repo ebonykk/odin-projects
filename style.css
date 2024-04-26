@@ -12,19 +12,39 @@
     color: #F9FAF8;
 }
 
-.header-links a {
-    font-size: 18px;
-    color: #E5E7EB;
-    text-decoration: none;
-}
-
 .navigation {
     display: flex;
     justify-content: space-between;
     margin-bottom: 100px;
 }
 
+.header-links a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+
+}
+
+
 .hero-content {
     display: flex;
+    gap: 20px;
+    align-items: center;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.content {
+    width: 50%;
+
+}
+
+.hero-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    background-color: grey;
+    height: 100px;
     
 }
