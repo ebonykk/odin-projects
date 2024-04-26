@@ -41,7 +41,8 @@ body {
 
 .content {
     width: 50%;
-   
+    height: 100%;
+    padding-right: 10px;
 }
 
 .hero-image {
@@ -50,4 +51,5 @@ body {
     align-items: center;
     width: 50%;
     background-color: grey;
+    height: 100%;
 } 
